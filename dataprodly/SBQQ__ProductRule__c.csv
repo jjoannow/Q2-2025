@@ -1,0 +1,6 @@
+Guid,Name,SBQQ__Active__c,SBQQ__AdvancedCondition__c,SBQQ__ConditionsMet__c,SBQQ__ErrorMessage__c,SBQQ__EvaluationEvent__c,SBQQ__EvaluationOrder__c,SBQQ__LookupMessageField__c,SBQQ__LookupObject__c,SBQQ__LookupProductField__c,SBQQ__LookupRequiredField__c,SBQQ__LookupTypeField__c,SBQQ__Scope__c,SBQQ__Type__c
+b22018dd-0789-4015-a171-d1c34300a15e,AXYPR,false,#N/A,Any,#N/A,Load,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,Product,Selection
+36c92b1c-8eeb-43ae-a002-15d09530dc37,New Product Rule 2,false,#N/A,Any,Error Msg,Always,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,Quote,Validation
+58a2647f-58cf-423b-9faa-a8bfcc286882,New Product Rule,false,#N/A,Any,Error Msg,Always,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,Quote,Validation
+9594a47b-b0eb-418e-a3fa-4eabbf03189e,test3,false,#N/A,All,#N/A,Load,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,Product,Selection
+74639167-71df-454e-8e68-1c2883d878ab,test1,false,#N/A,Any,#N/A,Always,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,Product,Selection
