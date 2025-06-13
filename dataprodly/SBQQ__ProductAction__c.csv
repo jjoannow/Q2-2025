@@ -1,0 +1,5 @@
+Guid,SBQQ__Rule__c,SBQQ__FilterField__c,SBQQ__FilterValue__c,SBQQ__Operator__c,SBQQ__Product__c,SBQQ__Required__c,SBQQ__Type__c,SBQQ__ValueField__c,SBQQ__ValueObject__c
+8affa4d9-a3c0-4924-a6f9-3cb6a6f9969f,74639167-71df-454e-8e68-1c2883d878ab,#N/A,#N/A,#N/A,#N/A,false,Add,#N/A,#N/A
+4e95a7e0-ec70-46bd-95b4-35fb36691370,74639167-71df-454e-8e68-1c2883d878ab,#N/A,#N/A,#N/A,#N/A,false,Add,#N/A,#N/A
+bc1c8889-1db3-4176-8cf5-3ee6415f174a,74639167-71df-454e-8e68-1c2883d878ab,#N/A,#N/A,#N/A,#N/A,false,Remove,#N/A,#N/A
+b9bda9f8-307d-482e-a263-7f3fb07b8ca2,74639167-71df-454e-8e68-1c2883d878ab,#N/A,#N/A,#N/A,#N/A,false,Enable,#N/A,#N/A
