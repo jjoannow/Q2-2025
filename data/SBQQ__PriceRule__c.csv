@@ -86,3 +86,4 @@ c03b4be9-4f92-46b5-8b67-bb809c9379f9,Set Professional Services Role Rates,false,
 22abe6ed-c1e1-4d66-b7e4-5d727e0b1641,NEW PRICE RULE 1,false,#N/A,All,#N/A,Before Calculate;On Calculate,#N/A,#N/A,Configurator
 341d60d1-5365-4fcb-a356-a52b2b38e157,Set Professional Services Role Rates,false,#N/A,All,#N/A,On Calculate,#N/A,Professional_Services_Rate__c,Calculator
 5a6f0ffa-c44f-4c1a-b33c-de3816b8328d,Set Professional Services Role Rates,false,#N/A,All,#N/A,On Calculate,#N/A,Professional_Services_Rate__c,Calculator
+69dc968f-62a3-4c05-8645-6a99601a441d,6/16 Price Rule,true,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
