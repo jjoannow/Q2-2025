@@ -24,7 +24,6 @@ e4adeeff-e89f-4eeb-9a66-d968931382f8,Config - Set Device Count,false,#N/A,All,Ed
 335e779e-c139-4095-800e-55689dd2fcd1,Set VirusScan Device Count (DEP),false,111 AND (222 OR 333 OR 444),Custom,#N/A,On Initialization,2.0,#N/A,Calculator
 c440f39e-5878-4f4c-b820-18662c6a0089,VC_TEST3,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
 28642394-525e-4049-a073-677c9dbc3229,Lookup Approval Level 2 [Discount],false,#N/A,All,#N/A,On Initialization,51.0,Approval_Threshold__c,Calculator
-b8391187-4e61-46fb-9d10-8bb18ba5a233,NEW PRICE RULE 5,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
 906355e9-b37b-4670-9108-dcda327b2feb,Lookup Approval Level 1 [Discount],false,#N/A,All,#N/A,On Initialization,50.0,Approval_Threshold__c,Calculator
 5f3632b9-b3eb-4972-84a9-6fb161808f9b,Calculate Tax at Order/Invoice,false,#N/A,All,#N/A,Before Calculate,#N/A,#N/A,Calculator
 abd88bb0-f9f5-4048-99f0-326f3a4d22d7,Set VirusScan Device Count,false,111 AND (222 OR 333 OR 444),Custom,Save,#N/A,1.0,#N/A,Configurator
