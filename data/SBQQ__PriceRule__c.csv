@@ -34,7 +34,7 @@ adafce3d-4f6b-44df-9d28-7645651a550e,Lookup Approval Level 3 [Discount],false,#N
 db6197ac-388a-4af7-92d0-c84458a2b0a3,Lookup Approval Level 3 [Discount],false,#N/A,All,#N/A,On Initialization,53.0,Approval_Threshold__c,Calculator
 e0081eda-09ad-4b0e-ab12-7c5960fec1fc,NEW PRICE RULE 7,false,#N/A,All,#N/A,On Calculate,#N/A,#N/A,Configurator
 bee24433-c7a5-47ca-ab8e-9284a3a99e47,Set Quantity for VirusScan Mac,false,#N/A,All,Edit,Before Calculate,#N/A,#N/A,Configurator
-a8aa3e63-8ddb-4e8d-a192-469b799daa2c,Billing Frequency Approval,true,#N/A,All,#N/A,On Initialization;On Calculate,30.0,#N/A,Calculator
+a8aa3e63-8ddb-4e8d-a192-469b799daa2c,Billing Frequency Approval,true,#N/A,All,#N/A,On Initialization;On Calculate,40.0,#N/A,Calculator
 c9d2bb44-6e96-44af-9ea4-e5263b2bca50,Set Quantity for VirusScan Mac,false,#N/A,All,Edit,Before Calculate,#N/A,#N/A,Configurator
 a1afc168-d840-4660-aea4-0cf8fb400add,Training Price Rule - deactivate,false,#N/A,All,#N/A,Before Calculate,#N/A,#N/A,Calculator
 e2386a0e-0582-4297-b2b8-051f6aafede2,Discount Configuration,false,#N/A,Any,#N/A,On Calculate,#N/A,SBQQ__LookupData__c,Calculator
